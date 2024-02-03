@@ -1,0 +1,32 @@
+Tooltip_FR = {
+
+  Tooltip_BuildingMenuObj_Scrap_Wall = "Mur en ferraille",
+  Tooltip_BuildingMenuObj_Scrap_Door_Frame = "Cadre de porte en ferraille",
+  Tooltip_BuildingMenuObj_Scrap_Window_Frame = "Cadre de fenêtre en ferraille",
+  Tooltip_BuildingMenuObj_Scrap_Pillar = "Pilier en ferraille",
+  Tooltip_Scrap_Wall = "",
+  Tooltip_Scrap_Door_Frame = "",
+  Tooltip_Scrap_Window_Frame = "",
+  Tooltip_Scrap_Pillar = "",
+
+
+  Tooltip_BuildingMenuObj_Corrugated_Metal = "Tôle ondulée",
+  Tooltip_BuildingMenuObj_Corrugated_Roof = "Toit en tôle ondulée",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Pitched_1 = "Tôle ondulée inclinée 1",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Pitched_2 = "Tôle ondulée inclinée 2",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Pitched_3 = "Tôle ondulée inclinée 3",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Inner_1 = "Tôle ondulée intérieure 1",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Inner_2 = "Tôle ondulée intérieure 2",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Inner_3 = "Tôle ondulée intérieure 3",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Valley_1 = "Tôle ondulée creuse 1",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Valley_2 = "Tôle ondulée creuse 2",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Valley_3 = "Tôle ondulée creuse 3",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Outer_1 = "Tôle ondulée extérieure 1",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Outer_2 = "Tôle ondulée extérieure 2",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Outer_3 = "Tôle ondulée extérieure 3",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Pitched = "Tôle ondulée inclinée",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Inner = "Tôle ondulée intérieure",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Outer = "Tôle ondulée extérieure",
+  Tooltip_BuildingMenuObj_Corrugated_Metal_Valley = "Tôle ondulée creuse",
+
+}
